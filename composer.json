@@ -1,16 +1,16 @@
 {
     "name": "SameDayCustom/plugin-elementor-pro",
-    "description": "",
+    "description": "It’s about time for a live page builder, with no limits of design. A page builder that delivers high-end page designs and advanced capabilities, never before seen on WordPress. It’s time for Elementor Page Builder.",
     "keywords": ["wordpress", "plugin"],
     "homepage": "https://github.com/SameDayCustom/plugin-elementor-pro",
     "authors": [
       {
-        "name": "Original Plugin Author's Name",
-        "homepage": "https://samedaycustom.com"
+        "name": "Elementor.com",
+        "homepage": "https://elementor.com"
       }
     ],
     "type": "wordpress-plugin",
     "require": {
-      "php": ">=7.1"
+      "php": ">=5.4"
     }
   }
