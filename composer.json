@@ -1,0 +1,16 @@
+{
+    "name": "SameDayCustom/plugin-elementor-pro",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/SameDayCustom/plugin-elementor-pro",
+    "authors": [
+      {
+        "name": "Original Plugin Author's Name",
+        "homepage": "https://samedaycustom.com"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+  }
